@@ -1,0 +1,4 @@
+Advent of Code 2021
+
+Build command
+    g++ -std=c++20 -o program source files
